@@ -3,7 +3,7 @@
 
 📌 Project Description
 
- Code Documentation Generator with QR code Security and Voice Outputr is a web-based application developed using HTML, CSS, and JavaScript. The system automatically generates documentation from source code, creates a QR code for the generated documentation, adds a digital signature for security, and provides voice output for accessibility. The project helps reduce manual documentation work and improves secure sharing of program information.
+ Code Documentation Generator with QR code Security and Voice Output is a web-based application developed using HTML, CSS, and JavaScript. The system automatically generates documentation from source code, creates a QR code for the generated documentation, adds a digital signature for security, and provides voice output for accessibility. The project helps reduce manual documentation work and improves secure sharing of program information.
 
  🚀 Features
 
@@ -31,10 +31,15 @@
 project-folder
 │
 ├── index.html
+
 ├── generate.html
+
 ├── voice.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 
