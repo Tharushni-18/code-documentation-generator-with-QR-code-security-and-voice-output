@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Generate Documentation📁</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Documentation Generator</h1>
+
+    <textarea id="codeInput" placeholder="Paste code..."></textarea>
+
+    <br>
+    <button onclick="generateDoc()">Generate</button>
+    <button onclick="saveDoc()">Save</button>
+
+    <div class="output-box">
+        <h2>Documentation📄</h2>
+        <div id="documentation"></div>
+    </div>
+
+    <div class="output-box">
+        <h2>QR Code📱</h2>
+        <div id="qrcode"></div>
+    </div>
+
+    <a href="voice.html">
+        <button>Go to Voice Page</button>
+    </a>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
