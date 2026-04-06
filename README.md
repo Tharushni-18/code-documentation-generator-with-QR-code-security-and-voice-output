@@ -30,6 +30,7 @@
 
 project-folder
 │
+
 ├── index.html
 
 ├── generate.html
@@ -55,6 +56,24 @@ project-folder
  🔐 Security Feature
 
 The system uses a simple hashing method to generate a digital signature for the documentation data, ensuring data integrity and authenticity.
+
+
+ADVANTAGES
+
+* Reduces manual effort required for writing program documentation..
+* Automatically generates documentation quickly and efficiently. 
+* QR code enables easy sharing and quick access to documentation.
+* Voice output makes the system interactive and user-friendly.
+*  Simple interface that is easy to use for students and developers.
+   
+
+  DISADVANTAGES
+
+*	The system supports only basic code analysis and documentation generation.
+*	It works only with supported programming code formats.
+*	QR code can store only limited amount of data..
+*	Internet browser compatibility may affect some features like voice output.
+*	The system does not store documentation in a database and Voice output depends on system audio and browser support.
 
 
  🎯 Conclusion
