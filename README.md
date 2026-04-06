@@ -58,7 +58,7 @@ project-folder
 The system uses a simple hashing method to generate a digital signature for the documentation data, ensuring data integrity and authenticity.
 
 
-ADVANTAGES
+ ✅ Advantages 
 
 * Reduces manual effort required for writing program documentation..
 * Automatically generates documentation quickly and efficiently. 
@@ -67,7 +67,7 @@ ADVANTAGES
 *  Simple interface that is easy to use for students and developers.
    
 
-  DISADVANTAGES
+❌ Disadvantages
 
 *	The system supports only basic code analysis and documentation generation.
 *	It works only with supported programming code formats.
